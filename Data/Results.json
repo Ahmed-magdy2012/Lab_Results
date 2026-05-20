@@ -1,0 +1,48 @@
+﻿[
+  {
+    "patientNo": "P-1001",
+    "MobileNumber": "01012345678",
+    "PatientName": "Ahmed Hassan",
+    "DateOfBirth": "1995-04-10T00:00:00",
+    "Gender": "Male",
+    "VisitDate": "2026-05-20T10:00:00",
+    "ExpiryDate": "2026-05-27T10:00:00",
+    "Sid": "9d4b7a7b2d9347f4b5e9c2e63a8f0e21",
+    "language": "en",
+
+    "results": [
+      {
+        "resultValue": 5.4,
+        "isNormal": true,
+        "createdAt": "2026-05-20T11:00:00",
+        "pdfPath": "/reports/result1.pdf"
+      },
+      {
+        "resultValue": 8.9,
+        "isNormal": false,
+        "createdAt": "2026-05-20T11:05:00",
+        "pdfPath": "/reports/result2.pdf"
+      }
+    ]
+  },
+  {
+    "patientNo": "P-1002",
+    "mobileNumber": "01198765432",
+    "patientName": "Sara Ali",
+    "dateOfBirth": "1990-08-21T00:00:00",
+    "gender": "Female",
+    "visitDate": "2026-05-21T09:00:00",
+    "expiryDate": "2026-05-28T09:00:00",
+    "sid": "2f7c0e1ad7c6428ab4a4e4b9f4f4e91c",
+    "language": "en",
+
+    "results": [
+      {
+        "resultValue": 3.2,
+        "isNormal": true,
+        "createdAt": "2026-05-21T09:30:00",
+        "pdfPath": "/reports/result3.pdf"
+      }
+    ]
+  }
+]
