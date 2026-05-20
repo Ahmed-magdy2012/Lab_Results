@@ -15,7 +15,7 @@ Normal / Abnormal classification
 
 
 
-1. git clone repo   git clone https://github.com/YOUR_USERNAME/LabResults.git
+1. git clone repo   git clone https://github.com/Ahmed-magdy2012/LabResults.git
 
 2. Configure Database in appsettings.Development.json "Default": "Server=.;Database=Lab;Trusted_Connection=True;"
 3. 3. Run Migrations dotnet ef database update
